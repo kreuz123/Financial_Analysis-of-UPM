@@ -66,7 +66,8 @@ The following files are attached to this repository for reference:
 
 This project provided an in-depth understanding of UPM’s performance trends and alignment with its sustainability goals. The findings highlight the importance of data-driven decision-making in understanding market dynamics, addressing challenges, and aligning business operations with long-term strategies.
 
-For further details, refer to the attached files and visualizations.
+For further details, refer to the attached files and visualizations. For the Excel files, please download and read them locally.
+
 
 ---
 
