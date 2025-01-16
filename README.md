@@ -56,11 +56,11 @@ The analysis was conducted using the following steps:
 ## Supporting Files
 
 The following files are attached to this repository for reference:
+1. [Module 3: Data Analytics and Accounting Summary (PDF)](./Module%203%20Data%20analytics%20and%20accounting%20summary-Chien%20Chuan%20Huang.pdf)
+2. [Key Figures Annuals 2023 Excel Sheet](./Key_figures_annuals_23_excelsheet.xlsx)
+3. [Financial Data 2023](./Financial_data_23.xls)
+4. [Sustainability Data Sheet](./Sustainability_data_sheet.xls)
 
-1. [Key Figures Annuals 2023 Excel Sheet](./Key_figures_annuals_23_excelsheet.xlsx)
-2. [Financial Data 2023](./Financial_data_23.xls)
-3. [Sustainability Data Sheet](./Sustainability_data_sheet.xls)
-4. [Module 3: Data Analytics and Accounting Summary (PDF)](./Module%203%20Data%20analytics%20and%20accounting%20summary-Chien%20Chuan%20Huang.pdf)
 
 ## Conclusion
 
