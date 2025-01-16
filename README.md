@@ -60,7 +60,7 @@ The following files are attached to this repository for reference:
 1. [Key Figures Annuals 2023 Excel Sheet](./Key_figures_annuals_23_excelsheet.xlsx)
 2. [Financial Data 2023](./Financial_data_23.xls)
 3. [Sustainability Data Sheet](./Sustainability_data_sheet.xls)
-4. [Module Summary Document](./Module 3 Data analytics and accounting summary-Chien Chuan Huang.pdf)
+4. [Module 3: Data Analytics and Accounting Summary (PDF)](./Module%203%20Data%20analytics%20and%20accounting%20summary-Chien%20Chuan%20Huang.pdf)
 
 ## Conclusion
 
